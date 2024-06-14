@@ -32,6 +32,7 @@ Another World, Fiction
 Program:
 
 d = {}
+d = {}
 while True:
     try:
         book = input().split(',')
